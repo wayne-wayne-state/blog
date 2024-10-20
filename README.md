@@ -4,9 +4,6 @@
     <meta charset="UTF-8">
        <title>CreatorsHub</title>
     <link rel="icon" type="image/x-icon" href="png-clipart-colored-pencil-pencil-pencil-pen-thumbnail.png">
-<!DOCTYPE html>
-<html>
-<head>
 <style> 
 
 .p1 {font-family: "Comic Sans MS", "Comic Sans", cursive; 
