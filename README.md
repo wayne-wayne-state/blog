@@ -11,7 +11,7 @@
 
 .p1 {font-family: "Comic Sans MS", "Comic Sans", cursive; 
   font-size:25px;
-  color: black;
+  color: white;
 }
 
 .p2 {font-family: "Comic Sans MS", "Comic Sans", cursive; 
@@ -33,7 +33,7 @@
 
 #rcorners1 {
   border-radius: 25px;
-  background: white;
+  background: black;
   padding: 20px; 
   width: 75%;
   height: 100%;  
