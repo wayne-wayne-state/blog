@@ -96,6 +96,7 @@ background-color:floralwhite;
 <h1 class="p2" id="rcorners2">Inspirational Concept Art <br> 
   <a class="p4" href="videogameconceptart.html">Video Game Concept Art</a> 
   <a class="p4" href="animation.html">Animation</a>
+  <a class="p4" href="fashiondesign.html">Fashion Design</a>
   <a class="p4" href="startcreatingtoday.html">Supplies</a> </h1>
 
 
